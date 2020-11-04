@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{ ViewData["Title"] = "Home page"; }
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Typing Game!</h1>
+    <p>Please <a class="alert-link" asp-page="/Login">login</a> to access game content.</p>
+</div>
+
+
+<!-- Victoria Added CSS, 11/2 evening -->
+<style>
+    body {
+        background-image: url('../images/LoginPageBackground.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+    }
+
+    header {
+        background: white;
+        opacity: 0.5;
+    }
+
+    footer {
+        background: black;
+        opacity: .3;
+    }
+
+    /* Specific to page */
+    .text-center {
+        /* center on page */
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        /* other adjustments */
+        padding: 30px;
+        background-color: rgba(255, 255, 255, .90);
+        border-radius: 25px;
+    }
+
+</style>

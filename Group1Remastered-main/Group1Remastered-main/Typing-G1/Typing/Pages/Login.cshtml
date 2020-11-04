@@ -1,0 +1,71 @@
+﻿@page
+@model Typing.Pages.LoginModel
+@{
+}
+
+<div class="logincontent">
+    <h1>Login Here</h1>
+
+    <form id="account" method="post">
+        <h4>Use a local account to log in.</h4>
+        <hr />
+        <div class="text-danger"></div>
+        <div class="form-group">
+            <label for="UserName">User Name</label>
+            <input id="UserName" name="UserName" class="form-control" value="" />
+            <span for="UserName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="Password">Password</label>
+            <input id="Password" type="password" name="Password" class="form-control" value="" />
+            <span for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Log in</button>
+        </div>
+        <div class="form-group">
+            <p>
+                <a asp-page="/Register">Register as a new user</a>
+            </p>
+        </div>
+    </form>
+</div>
+
+
+<!-- Victoria Added CSS, 11/2 evening -->
+<style>
+    body {
+        background-image: url('../images/LoginPageBackground.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+    }
+
+    header {
+        background: white;
+        opacity: 0.5;
+    }
+
+    footer {
+        background: black;
+        opacity: .3;
+    }
+
+    /* Specific to page */
+    .logincontent {
+        /* center on page */
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        /* other adjustments */
+        background-color: rgba(255, 255, 255, .90);
+        border-radius: 25px;
+        padding: 10px 10px 10px 10px;
+        width: 50%;
+    }
+
+</style>
