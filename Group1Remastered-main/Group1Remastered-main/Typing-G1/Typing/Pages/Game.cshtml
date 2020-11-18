@@ -340,6 +340,7 @@
     //Displays users game score when game is over
     function gameOverP1() {
         var f1 = $('scoreOne').html();
+        $("#tb1").prop("disabled", true);
         $('#p1Final').html("Game Over!<br>Final score: " + p1Score);
         $('#p1Final').css({
             'visibility': 'visible',
@@ -349,7 +350,6 @@
             'text-align': 'center'
         });
         $('.wordBox1').each(function () {
-            $("#user1").prop("disabled", true);
             $(this).finish();
             $(this).stop();
         });

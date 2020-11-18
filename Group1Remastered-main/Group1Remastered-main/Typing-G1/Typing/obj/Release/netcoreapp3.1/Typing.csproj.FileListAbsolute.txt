@@ -2,7 +2,6 @@ C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\appsettings.json
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\libman.json
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ianbrinkerhoff - Web Deploy\profile.arm.json
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Typing.exe
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Typing.deps.json
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Typing.runtimeconfig.json
@@ -121,3 +120,4 @@ C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Release\netcoreapp3.1\Typing.dll
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Release\netcoreapp3.1\Typing.pdb
 C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Release\netcoreapp3.1\Typing.genruntimeconfig.cache
+C:\Users\Ian Brinkerhoff\OneDrive\Desktop\repo\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\Group1Typing- Web Deploy\profile.arm.json
