@@ -9,8 +9,12 @@ namespace Typing.Pages
 {
     public class GameModel : PageModel
     {
+        public string thisPlayer => (string)TempData[nameof(thisPlayer)];
+
         public void OnGet()
         {
+            TempData["thisPlayer"] = UserStatus.currentUser;
+
         }
     }
 }

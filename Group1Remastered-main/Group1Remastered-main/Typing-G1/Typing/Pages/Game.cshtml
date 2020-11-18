@@ -55,6 +55,7 @@
             "SWIM", "APPLE", "CARROT", "BOOK", "COIN", "CUPCAKE", "PENCIL", "BOAT", "FINGER", "DOOR"
         ];
 
+    var currentUser = $("currentUser").html();
 </script>
 
 
@@ -76,7 +77,7 @@
 
     //Sends msg when game loads to enable the start game button
     function sendNewGame() {
-        var username = '@UserStatus.currentUser';
+        var username = currentUser;
         var input = 'newGame';
         connection.invoke("SendInput", username, input).catch(function (err) {
             return console.error(err.toString());
@@ -171,7 +172,7 @@
 
     //Everytime the player presses a key a new substring is sent to the opponents game
     $('#tb1').keyup(function () {
-        var username = '@UserStatus.currentUser';
+        var username = currentUser;
         var input = $('#tb1').val().toUpperCase();
         connection.invoke("SendInput", username, input).catch(function (err) {
             return console.error(err.toString());
@@ -188,7 +189,7 @@
             animateOne();
             animateTwo();
         } else {
-            var username = '@UserStatus.currentUser';
+            var username = currentUser;
             var input = 'ready';
             connection.invoke("SendInput", username, input).catch(function (err) {
                 return console.error(err.toString());
@@ -198,7 +199,7 @@
 
     //Message that is called when a users game screen loads to notify other player of readiness
     function sendStartMessage() {
-        var username = '@UserStatus.currentUser';
+        var username = currentUser;
             var input = 'start';
             connection.invoke("SendInput", username, input).catch(function (err) {
                 return console.error(err.toString());
