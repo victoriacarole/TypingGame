@@ -6498,19 +6498,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\victo\\.nuget\\packages\\": {}
+    "C:\\Users\\Ian Brinkerhoff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
+      "projectUniqueName": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\Desktop\\repo\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
       "projectName": "Typing",
-      "projectPath": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
-      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\obj\\",
+      "projectPath": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\Desktop\\repo\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
+      "packagesPath": "C:\\Users\\Ian Brinkerhoff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\Desktop\\repo\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ian Brinkerhoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

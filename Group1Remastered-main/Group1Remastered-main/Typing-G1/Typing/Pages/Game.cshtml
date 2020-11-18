@@ -6,7 +6,7 @@
     <div class="left" id="p1">
         <h2 id="currentUser">@UserStatus.currentUser</h2>
         <h2 id="scoreOne">0</h2>
-        <button id="startBtn" class="myButton">Start</button>
+        <button id="startBtn" class="myButton" disabled>Start</button>
         <h3 id="p1Final" style="visibility:collapse"></h3>
         <div class="wordBox1 1" style="margin-top: 50px"><p id="1"></p></div>
         <div class="wordBox1 2" style="top:150px"><p id="2"></p></div>
@@ -54,6 +54,7 @@
             "KEY", "HAMBURGER", "BONE", "MONSTER", "BOW", "ALLIGATOR", "BRACELET", "ANT", "WHALE", "TURTLE",
             "SWIM", "APPLE", "CARROT", "BOOK", "COIN", "CUPCAKE", "PENCIL", "BOAT", "FINGER", "DOOR"
         ];
+
 </script>
 
 
@@ -66,13 +67,32 @@
         p1Score = 0,
         p2Score = 0;
 
+    //Disables the form automatic post on 'enter'
     $(document).on("keydown", "form", function (event) {
         return event.key != "Enter";
     });
 
+    var newGame = setInterval(sendNewGame, 200);
+
+    //Sends msg when game loads to enable the start game button
+    function sendNewGame() {
+        var username = '@UserStatus.currentUser';
+        var input = 'newGame';
+        connection.invoke("SendInput", username, input).catch(function (err) {
+            return console.error(err.toString());
+        });
+    }
+
+    //When messages is received it checks it for key msgs, otherwise it takes
+    //the users input as part of the game
     connection.on("ReceiveMessage", function (username, input) {
         msg = input;
-        if (msg == "ready") {
+        if (msg == "newGame") {
+            $('#opponent').html(username);
+            $('#startBtn').prop('disabled', false);
+        }
+        else if (msg == "ready") {
+            clearInterval(newGame);
             $('#waiting').html('Player Ready!');
             $('#opponent').html(username);
         }
@@ -92,7 +112,7 @@
                 halfW = $half.width()
 
             $('#tb2').val(substring);
-
+            //Scans each word on users side with their input to look for matches
             $('.wordBox').each(function () {
                 var string = $(this).text();
                 if (string == substring) {
@@ -106,6 +126,7 @@
                         "left": (docWidth - halfW) + "px",
                         "text-align": "right"
                     });
+                    //Stages of the game to ensure it gets more difficult as the game progresses
                     if (p2count < 10) {
                         $(this).animate({ left: (docWidth - 75) + 'px' }, 20000, 'linear', function () { gameOverP2(); });
                     } else if (p2count < 20) {
@@ -128,6 +149,7 @@
                         $(this).animate({ left: (docWidth - 75) + 'px' }, 7000, 'linear', function () { gameOverP2(); });
                     }
                 }
+                //Bolds substring of string that user types
                 else if (string.startsWith(substring)) {
                     $(this).html(
                         '<b>' + string.substr(0, substring.length) + '</b>' + string.substr(substring.length)
@@ -147,6 +169,7 @@
         return console.error(err.string());
     });
 
+    //Everytime the player presses a key a new substring is sent to the opponents game
     $('#tb1').keyup(function () {
         var username = '@UserStatus.currentUser';
         var input = $('#tb1').val().toUpperCase();
@@ -155,6 +178,7 @@
         });
     });
 
+    //Ensures both players are ready before starting the game
     $('#startBtn').click(function () {
         $('#startBtn').hide();
         if ($('#waiting').text() == 'Player Ready!') {
@@ -172,6 +196,7 @@
         }
     });
 
+    //Message that is called when a users game screen loads to notify other player of readiness
     function sendStartMessage() {
         var username = '@UserStatus.currentUser';
             var input = 'start';
@@ -312,6 +337,7 @@
         });
     });
 
+    //Displays users game score when game is over
     function gameOverP1() {
         var f1 = $('scoreOne').html();
         $('#p1Final').html("Game Over!<br>Final score: " + p1Score);
@@ -346,6 +372,8 @@
         });
         $('.right').css("background-color", "#ff6666" );
     }
+
+    window.onload = sendNewGame();
 
 </script>
 
