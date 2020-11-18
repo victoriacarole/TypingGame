@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8x/rX/Hbjf94AprZvyB+A/dPBGMwoPfqqUtkjX4k4NkSEvq6A7R6RbhvTRBB7I8+fit5SuWe4lVP+ORyWHk/+w==",
+  "dgSpecHash": "3eYN7hRR8xmPnDV5jPfHxVKzdoecv0FZ+QWsXGz054nwnUhRDtr1mCmvB6siIKGMQkT4e9myodZ/NWfiAe1Hqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Downloads\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.1\\microsoft.aspnet.signalr.2.4.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

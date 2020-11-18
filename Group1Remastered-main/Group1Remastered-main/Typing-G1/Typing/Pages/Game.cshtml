@@ -2,70 +2,88 @@
 @model Typing.Pages.GameModel
 @{
 }
-    <div id="gameScreen">        
-        <div class="left" id="p1">
-            <h2 id="currentUser">@UserStatus.currentUser</h2>
-            <div id="start" style="z-index:100">
-                <button id="startBtn" class="myButton">Start</button>
-            </div>
-            <div class="wordBox1 1" style="top:70px"><p id="1"></p></div>
-            <div class="wordBox1 2" style="top:150px"><p id="2"></p></div>
-            <div class="wordBox1 3" style="top:230px"><p id="3"></p></div>
-            <div class="wordBox1 4" style="top:310px"><p id="4"></p></div>
-            <div class="wordBox1 5" style="top:390px"><p id="5"></p></div>
-            <form id="user1" autocomplete="off">
-                <input type="text" name="user1" id="tb1" value="" />
-            </form>
-        </div>
-        <div class="right" id="p2">
-            <h2 id="opponent"></h2>
-            <div id="wait">
-                <h3 id="waiting">Waiting on opponent...</h3>
-            </div>
-            <div class="wordBox 1" style="top:70px"><p id="6"></p></div>
-            <div class="wordBox 2" style="top:150px"><p id="7"></p></div>
-            <div class="wordBox 3" style="top:230px"><p id="8"></p></div>
-            <div class="wordBox 4" style="top:310px"><p id="9"></p></div>
-            <div class="wordBox 5" style="top:390px"><p id="10"></p></div>
-            <form id="user2" autocomplete="off">
-                <input type="text" name="user2" id="tb2" value="" />
-            </form>
-        </div>
+<div id="gameScreen">
+    <div class="left" id="p1">
+        <h2 id="currentUser">@UserStatus.currentUser</h2>
+        <h2 id="scoreOne">0</h2>
+        <button id="startBtn" class="myButton">Start</button>
+        <h3 id="p1Final" style="visibility:collapse"></h3>
+        <div class="wordBox1 1" style="margin-top: 50px"><p id="1"></p></div>
+        <div class="wordBox1 2" style="top:150px"><p id="2"></p></div>
+        <div class="wordBox1 3" style="top:230px"><p id="3"></p></div>
+        <div class="wordBox1 4" style="top:310px"><p id="4"></p></div>
+        <div class="wordBox1 5" style="top:390px"><p id="5"></p></div>
+        <form id="user1" autocomplete="off" onkeydown="return event.key != 'Enter';">
+            <input type="text" name="user1" id="tb1" value="" />
+        </form>
     </div>
+    <div class="right" id="p2">
+        <h2 id="opponent"></h2>
+        <h2 id="scoreTwo">0</h2>
+        <h3 id="waiting">Waiting on opponent...</h3>
+        <h3 id="p2Final" style="visibility:collapse"></h3>
+        <div class="wordBox 1" style="margin-top:50px"><p id="6"></p></div>
+        <div class="wordBox 2" style="top:150px"><p id="7"></p></div>
+        <div class="wordBox 3" style="top:230px"><p id="8"></p></div>
+        <div class="wordBox 4" style="top:310px"><p id="9"></p></div>
+        <div class="wordBox 5" style="top:390px"><p id="10"></p></div>
+        <form id="user2" autocomplete="off" onkeydown="return event.key != 'Enter';">
+            <input type="text" name="user2" id="tb2" value="" readonly/>
+        </form>
+    </div>
+</div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
 @*<script src="~/js/chat.js"></script>*@
 
 <script>
-    var arr = ["BASEBALL", "RACECAR", "CACTUS", "SAMURAI", "CAT", "WORD", "BUG", "DINOSAUR", "COMPUTER", "TYPING",
-        "BASKETBALL", "MOUSE", "BENCH", "GRAPES", "SOCKS", "RIVER", "ZOO", "DRUM", "LIZARD", "BASKETBALL",
-        "CHEESE", "PURSE", "WATER", "EYE", "COMB", "ROCK", "LEMON", "CAMERA", "JELLYFISH", "ORANGE",
-        "SWING", "NOSE", "DRAGON", "BUTTERFLY", "FORK", "MOUTH", "HEAD", "MILK", "ARM", "PERSON",
-        "KING", "GIRL", "WORM", "RABBIT", "BRAD", "PETERSON", "BRACELET", "BALLOON", "OWL", "BIRD",
-        "FLY", "FALCON", "BLUE", "GRASS", "SNOWFLAKE", "JAIL", "MOUNTAIN", "TRUCK", "FALL", "HALLOWEEN",
-        "START", "RACE", "TABLE", "IMAGE", "BREAD", "SLIDE", "BRIDGE", "COAT", "SHIRT", "BEAR",
-        "ANGEL", "SEA", "CLOUD", "WINDOW", "LIPS", "PILLOW", "RAINBOW", "TORNADO", "AIRPLANE", "POLICE",
-        "KEY", "HAMBURGER", "BONE", "MONSTER", "BOW", "ALLIGATOR", "EGG", "ANT", "WHALE", "TURTLE",
-        "SWIM", "APPLE", "CARROT", "BOOK", "COIN", "CUPCAKE", "PENCIL", "BOAT", "FINGER", "DOOR"
-    ];
+    var arr =
+        [
+            "BASEBALL", "RACECAR", "CACTUS", "SAMURAI", "HOCKEY", "WORD", "BUG", "DINOSAUR", "COMPUTER", "TYPING",
+            "BASKETBALL", "MOUSE", "BENCH", "GRAPES", "SOCKS", "RIVER", "ZOO", "DRUM", "LIZARD", "BASKETBALL",
+            "CHEESE", "PURSE", "WATER", "EYE", "COMB", "ROCK", "LEMON", "CAMERA", "JELLYFISH", "ORANGE",
+            "SWING", "NOSE", "DRAGON", "BUTTERFLY", "FORK", "MOUTH", "HEAD", "MILK", "ARM", "PERSON",
+            "KING", "GIRL", "WORM", "RABBIT", "BRAD", "PETERSON", "EGG", "BALLOON", "OWL", "BIRD",
+            "FLY", "FALCON", "BLUE", "GRASS", "SNOWFLAKE", "JAIL", "MOUNTAIN", "TRUCK", "FALL", "HALLOWEEN",
+            "COVER", "RACE", "TABLE", "IMAGE", "BREAD", "SLIDE", "BRIDGE", "COAT", "SHIRT", "BEAR",
+            "ANGEL", "SEA", "CLOUD", "WINDOW", "LIPS", "PILLOW", "RAINBOW", "TORNADO", "AIRPLANE", "POLICE",
+            "KEY", "HAMBURGER", "BONE", "MONSTER", "BOW", "ALLIGATOR", "BRACELET", "ANT", "WHALE", "TURTLE",
+            "SWIM", "APPLE", "CARROT", "BOOK", "COIN", "CUPCAKE", "PENCIL", "BOAT", "FINGER", "DOOR"
+        ];
 </script>
 
 
 <script>
-    var numPlayers = 0;
 
     "use strict";
     var p2count = 5;
     var connection = new signalR.HubConnectionBuilder().withUrl("/messageHub").build();
-    var msg;
+    var msg,
+        p1Score = 0,
+        p2Score = 0;
+
+    $(document).on("keydown", "form", function (event) {
+        return event.key != "Enter";
+    });
 
     connection.on("ReceiveMessage", function (username, input) {
         msg = input;
         if (msg == "ready") {
-            numPlayers++;
-            $('#waiting').html('Player Ready!')
-        } else {
+            $('#waiting').html('Player Ready!');
+            $('#opponent').html(username);
+        }
+        else if (msg == "start") {
+            $('#waiting').hide();
+            $('#opponent').html(username);
+            popP();
+            animateOne();
+            animateTwo();
+        }
+        else {
             $('#opponent').html(username);
             var substring = msg;
             var $div = $('#gameScreen'),
@@ -73,25 +91,41 @@
                 docWidth = $div.width(),
                 halfW = $half.width()
 
+            $('#tb2').val(substring);
+
             $('.wordBox').each(function () {
                 var string = $(this).text();
                 if (string == substring) {
-                    $('#tb1').val('');
+                    p2Score++;
+                    $('#scoreTwo').html(p2Score);
+                    $('#tb2').val('');
                     $(this).text(arr[p2count]);
                     p2count++;
                     $(this).stop(true).css({
                         "position": "absolute",
-                        "left": (docWidth - halfW) - 50 + "px",
+                        "left": (docWidth - halfW) + "px",
                         "text-align": "right"
                     });
                     if (p2count < 10) {
-                        $(this).animate({ left: (docWidth - 100) + 'px' }, 20000);
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 20000, 'linear', function () { gameOverP2(); });
                     } else if (p2count < 20) {
-                        $(this).animate({ left: (docWidth - 100) + 'px' }, 17000);
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 17000, 'linear', function () { gameOverP2(); });
                     } else if (p2count < 30) {
-                        $(this).animate({ left: (docWidth - 100) + 'px' }, 15000);
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 15000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 40) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 13000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 50) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 12000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 60) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 11000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 70) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 10000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 80) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 9000, 'linear', function () { gameOverP2(); });
+                    } else if (p2count < 90) {
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 8000, 'linear', function () { gameOverP2(); });
                     } else {
-                        $(this).animate({ left: (docWidth - 100) + 'px' }, 13000);
+                        $(this).animate({ left: (docWidth - 75) + 'px' }, 7000, 'linear', function () { gameOverP2(); });
                     }
                 }
                 else if (string.startsWith(substring)) {
@@ -121,24 +155,41 @@
         });
     });
 
-    $('#start').click(function () {
-        numPlayers++;
-        $('#start').hide();
-        var username = '@UserStatus.currentUser';
-        var input = 'ready';
-        connection.invoke("SendInput", username, input).catch(function (err) {
-            return console.error(err.toString());
-        });
+    $('#startBtn').click(function () {
+        $('#startBtn').hide();
+        if ($('#waiting').text() == 'Player Ready!') {
+            $('#waiting').hide();
+            sendStartMessage();
+            popP();
+            animateOne();
+            animateTwo();
+        } else {
+            var username = '@UserStatus.currentUser';
+            var input = 'ready';
+            connection.invoke("SendInput", username, input).catch(function (err) {
+                return console.error(err.toString());
+            });
+        }
     });
+
+    function sendStartMessage() {
+        var username = '@UserStatus.currentUser';
+            var input = 'start';
+            connection.invoke("SendInput", username, input).catch(function (err) {
+                return console.error(err.toString());
+            });
+    }
+
+
 </script>
 
 <script>
 
     var p1count = 5;
-    
 
-//on click populate p's with words
-    $('#p1').click(function () {
+
+    //on click populate p's with words
+    function popP() {
         var x = 0;
         $("p").each(function () {
             $(this).text(arr[x]);
@@ -147,17 +198,17 @@
                 x = 0;
             }
         });
-    });
+    }
 
     //Register listener for Num Players
 
-//PLAYER 1 SIDE USING ANIMATE
-    $('#p1').click(function () {
-
+    //PLAYER 1 SIDE USING ANIMATE
+    function animateOne() {
         var $div = $('#p1'),
             docWidth = $div.width(),
-            num = 0;
-            
+            num = 0,
+            docHeight = $div.height();
+
 
         $('#user1').css({
             'left': (docWidth / 2) - 100 + 'px',
@@ -169,78 +220,46 @@
             'visibility': 'visible'
         });
 
-        var color = setInterval(function () {
-            num++;
-            $.each($('#p1'), function (i, left) {
-                $('div', left).each(function () {
-                    if (num == 1) {
-                        $(this).css({
-                            'color': 'orange'
-                        });
-                    } else if (num == 2) {
-                        $(this).css({
-                            'color': 'red'
-                        });
-                        clearInterval(color);
-                    }
-                });
-            })
-        }, 6666);
-
-
         $.each($('#p1'), function (i, left) {
+            var x = 0;
             $('div', left).each(function () {
                 $(this).css({
-                    'position': 'absolute'
+                    'position': 'absolute',
+                    'top': ((docHeight) * (x / 5) + 50) + 'px'
                 });
+                x++;
+                $(this).animate({ left: (docWidth - 75) + 'px' }, 20000, 'linear', function () {
+                    gameOverP1();
+                });
+            });
+        })
+    }
 
-                $(this).animate({ left: (docWidth - 100) + 'px' }, 20000);
+
+    //PLAYER 2 SIDE USING ANIMATE
+    function animateTwo() {
+        var $div = $('#gameScreen'),
+            fullWidth = $div.width(),
+            docHeight = $div.height(),
+            num = 0;
+
+        $.each($('#p2'), function (i, left) {
+            var x2 = 0;
+            $('div', left).each(function () {
+                $(this).css({
+                    'position': 'absolute',
+                    'top': ((docHeight) * (x2 / 5) + 50) + 'px'
+                });
+                x2++;
+                $(this).animate({ left: (fullWidth - 75) + 'px' }, 20000, 'linear', function () {
+                    gameOverP2();
+                });
 
             });
         })
-    });
+    }
 
-
-//PLAYER 2 SIDE USING ANIMATE
-    $('#p1').click(function () {
-
-        var $div = $('#gameScreen'),
-            fullWidth = $div.width(),
-            num = 0;
-
-        var color = setInterval(function () {
-            num++;
-            $.each($('#p2'), function (i, left) {
-                $('div', left).each(function () {
-                    if (num == 1) {
-                        $(this).css({
-                            'color': 'orange'
-                        });
-                    } else if (num == 2) {
-                        $(this).css({
-                            'color': 'red'
-                        });
-                        clearInterval(color);
-                    }
-                });
-            }) 
-        }, 6666);
-
-       
-        $.each($('#p2'), function (i, left) {
-            $('div', left).each(function () {
-                $(this).css({
-                    'position': 'absolute'
-
-                });
-
-                $(this).animate({ left: (fullWidth - 100) + 'px' }, 20000);
-
-            });
-        })  
-    });
-
-//When player hits a key, it compares substring to words on players screen
+    //When player hits a key, it compares substring to words on players screen
     $('#tb1').keyup(function () {
         var substring = $('#tb1').val().toUpperCase();
         var $div = $('#p1'),
@@ -248,6 +267,8 @@
         $('.wordBox1').each(function () {
             var string = $(this).text();
             if (string == substring) {
+                p1Score++;
+                $('#scoreOne').html(p1Score);
                 $('#tb1').val('');
                 $(this).text(arr[p1count]);
                 p1count++;
@@ -257,13 +278,25 @@
                     "text-align": "right"
                 });
                 if (p1count < 10) {
-                    $(this).animate({ left: (docWidth - 100) + 'px' }, 20000);
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 20000, 'linear', function () { gameOverP1(); });
                 } else if (p1count < 20) {
-                    $(this).animate({ left: (docWidth - 100) + 'px' }, 17000);
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 17000, 'linear', function () { gameOverP1(); });
                 } else if (p1count < 30) {
-                    $(this).animate({ left: (docWidth - 100) + 'px' }, 15000);
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 15000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 40) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 13000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 50) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 12000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 60) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 11000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 70) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 10000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 80) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 9000, 'linear', function () { gameOverP1(); });
+                } else if (p1count < 90) {
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 8000, 'linear', function () { gameOverP1(); });
                 } else {
-                    $(this).animate({ left: (docWidth - 100) + 'px' }, 13000);
+                    $(this).animate({ left: (docWidth - 75) + 'px' }, 7000, 'linear', function () { gameOverP1(); });
                 }
             }
             else if (string.startsWith(substring)) {
@@ -279,6 +312,41 @@
         });
     });
 
+    function gameOverP1() {
+        var f1 = $('scoreOne').html();
+        $('#p1Final').html("Game Over!<br>Final score: " + p1Score);
+        $('#p1Final').css({
+            'visibility': 'visible',
+            'position': 'absolute',
+            'left': '40%',
+            'top': '40%',
+            'text-align': 'center'
+        });
+        $('.wordBox1').each(function () {
+            $("#user1").prop("disabled", true);
+            $(this).finish();
+            $(this).stop();
+        });
+        $('.left').css("background-color", "#ff9999");
+    }
+
+    function gameOverP2() {
+        var f2 = $('scoreTwo').html();
+        $('#p2Final').html("Game Over!<br>Final score: " + p2Score);
+        $('#p2Final').css({
+            'visibility': 'visible',
+            'position': 'absolute',
+            'left': '70%',
+            'top': '40%',
+            'text-align': 'center'
+        });
+        $('.wordBox').each(function () {
+            $(this).finish();
+            $(this).stop();
+        });
+        $('.right').css("background-color", "#ff6666" );
+    }
+
 </script>
 
 <style>
@@ -287,17 +355,17 @@
     .left {
         width: 50%;
         float: left;
-        background-color: whitesmoke;
+        background-color: #f9cb85;
         min-height: 100%;
-        margin:0;
-        position:absolute;
+        margin: 0;
+        position: absolute;
     }
 
     /* Control the right side */
     .right {
         width: 50%;
         float: right;
-        background-color: lightgray;
+        background-color: #e99c57;
         min-height: 100%;
         margin: 0;
     }
@@ -308,7 +376,7 @@
     }
 
     body {
-        overflow:hidden;
+        overflow: hidden;
         background-color: white;
         margin: 0 auto;
         position: relative;
@@ -335,43 +403,57 @@
         text-align: left;
     }
 
-    .wordBox, .wordBox1{
+    .wordBox, .wordBox1 {
         height: 50px;
-        width: 100px;
+        width: auto;
         margin: 5px;
-        color:green;
+        color: black;
+        text-align: right;
     }
 
-    #finalMsg{
-        visibility:collapse;
+    #finalMsg {
+        visibility: collapse;
     }
 
-    p{
-        text-align:left;
-        margin:auto;
+    p {
+        text-align: left;
+        margin: auto;
     }
 
-    #p1, #p2{
-        
+    #p1, #p2 {
     }
 
-    #user1, #user2{
+    #user1, #user2 {
         position: absolute;
-        bottom:0px;
-        visibility:hidden;
+        bottom: 0px;
+        visibility: hidden;
     }
 
-    #start {
+    #startBtn {
         position: absolute;
         left: 40%;
         top: 40%;
         text-align: center;
     }
 
-    #wait {
+    #waiting {
         position: absolute;
         left: 65%;
         top: 40%;
+        text-align: center;
+    }
+
+    #scoreOne {
+        position: absolute;
+        left: 50%;
+        top: 0%;
+        text-align: right;
+    }
+
+    #scoreTwo {
+        position: absolute;
+        left: 75%;
+        top: 0%;
         text-align: center;
     }
 
@@ -391,13 +473,12 @@
         text-shadow: 0px 1px 0px #283966;
     }
 
-        .myButton:hover {
-            background-color: #476e9e;
-        }
+    .myButton:hover {
+        background-color: #476e9e;
+    }
 
-        .myButton:active {
-            position: relative;
-            top: 1px;
-        }
-
+    .myButton:active {
+        position: relative;
+        top: 1px;
+    }
 </style>

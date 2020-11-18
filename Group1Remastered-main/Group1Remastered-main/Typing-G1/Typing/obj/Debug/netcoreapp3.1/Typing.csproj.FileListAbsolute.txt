@@ -406,124 +406,369 @@ D:\Ian Brinkerhoff\Coding\Oct22\Group1Remastered\Typing-G1\Typing\obj\Debug\netc
 D:\Ian Brinkerhoff\Coding\Oct22\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.dll
 D:\Ian Brinkerhoff\Coding\Oct22\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.pdb
 D:\Ian Brinkerhoff\Coding\Oct22\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.genruntimeconfig.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\libman.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.exe
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.deps.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.dev.json
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.pdb
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.pdb
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csprojAssemblyReference.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfoInputs.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfo.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CoreCompileInputs.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.input.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.output.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorCoreGenerate.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cs
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.Views.pdb
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CopyComplete
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.Manifest.cache
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.xml
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.dll
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.pdb
-C:\Users\victo\Downloads\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.genruntimeconfig.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\libman.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.exe
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.deps.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.dev.json
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.pdb
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.pdb
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csprojAssemblyReference.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfoInputs.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfo.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CoreCompileInputs.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.MvcApplicationPartsAssemblyInfo.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.input.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.output.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorCoreGenerate.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cs
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.Views.pdb
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CopyComplete
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.Manifest.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.xml
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.dll
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.pdb
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.genruntimeconfig.cache
+D:\Ian Brinkerhoff\Coding\Nov5\Group1Remastered\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\EnterName.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.exe
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.deps.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.dev.json
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.pdb
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.pdb
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csprojAssemblyReference.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.input.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.output.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorCoreGenerate.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\EnterName.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.Views.pdb
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CopyComplete
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.Manifest.cache
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.xml
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.dll
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.pdb
+C:\Users\victo\Documents\CS 3750\TypingGameUpdated\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.genruntimeconfig.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.exe
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.deps.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.runtimeconfig.dev.json
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.pdb
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Typing.Views.pdb
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csprojAssemblyReference.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.AssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorAssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.input.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.TagHelpers.output.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorCoreGenerate.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\EnterName.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.RazorTargetAssemblyInfo.cs
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.Views.pdb
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.csproj.CopyComplete
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.Manifest.cache
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\staticwebassets\Typing.StaticWebAssets.xml
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.dll
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.pdb
+C:\Users\victo\Documents\CS 3750\TypingGame\Group1Remastered-main\Group1Remastered-main\Typing-G1\Typing\obj\Debug\netcoreapp3.1\Typing.genruntimeconfig.cache

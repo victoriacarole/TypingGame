@@ -6503,11 +6503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Downloads\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
       "projectName": "Typing",
-      "projectPath": "C:\\Users\\victo\\Downloads\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
+      "projectPath": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\Typing.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Downloads\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\CS 3750\\TypingGame\\Group1Remastered-main\\Group1Remastered-main\\Typing-G1\\Typing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
